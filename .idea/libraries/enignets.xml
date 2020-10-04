@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="enignets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/enignets.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
